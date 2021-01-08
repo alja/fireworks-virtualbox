@@ -11,12 +11,14 @@ https://cernbox.cern.ch/index.php/s/qmOGnySELgvA8d1
 
 Run VirtualBox and create a new VM witj the Centos-7 image
 <br>
-<img src="https://raw.githubusercontent.com/alja/fireworks-virtualbox/main/doc/NewVM-virtualdisk.png" alt="smiley" height="200px">
+<img src="https://raw.githubusercontent.com/alja/fireworks-virtualbox/main/doc/NewVM-virtualdisk.png" height="400px">
 ## 4. Run Centos-7 VM 
 
 Start VM with user 'osboxes.org' and password which is same as the username 'osboxes.org`
 ### Set autoresize or fixed resolution in the bottom right toolbar 
-!
+
+<img src="https://raw.githubusercontent.com/alja/fireworks-virtualbox/main/doc/vbox-autresize.png" height="400px">
+
 ### 5. Download and run cmsShow
 
 
