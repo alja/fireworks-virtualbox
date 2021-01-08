@@ -10,7 +10,7 @@ https://cernbox.cern.ch/index.php/s/qmOGnySELgvA8d1
 ## Create VM with the centos iamge
 
 Run VirtualBox and create a new VM witj the Centos-7 image
-
+![some text](doc/NewVM-virtualdisk.png?raw=true|width=100)
 
 ## Run Centos-7 VM 
 ### Start VM with user 'osboxes.org' and password which is same as the username 'osboxes.org`
