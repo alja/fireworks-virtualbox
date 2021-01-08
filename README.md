@@ -1,10 +1,10 @@
-# Running cmsShow in VirtualBOx
+# Running cmsShow in VirtualBox
 ## 1. Install virtual box
  Download dmg for OSX. Att installation time grant *all* security permissions asked the install time (e.g. network) 
 
 https://www.virtualbox.org/wiki/Downloads
 
-## 2. Download centos-7 image 
+## 2. Download Centos-7 image 
 https://cernbox.cern.ch/index.php/s/qmOGnySELgvA8d1
 
 ## 3. Create VM with the centos iamge
