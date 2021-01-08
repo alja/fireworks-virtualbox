@@ -18,7 +18,7 @@ Start VM and login as user *osboxes.org* and password which is the same as the u
 
 ### Set autoresize or fixed resolution in the bottom right toolbar 
 
-<img src="https://raw.githubusercontent.com/alja/fireworks-virtualbox/main//vbox-autresize.png" height="500px">
+<img src="https://raw.githubusercontent.com/alja/fireworks-virtualbox/main/img/vbox-autresize.png" height="500px">
 
 ### 5. Download and run cmsShow
 ```
