@@ -14,4 +14,7 @@ Run VirtualBox and create a new VM witj the Centos-7 image
 
 ## Run Centos-7 VM 
 ### Start VM with user 'osboxes.org' and password which is same as the username 'osboxes.org`
+### Set autoresize or fixed resolution in the bottom right toolbar 
+### Download cmsShow tarball, extract, and run it
+
 
